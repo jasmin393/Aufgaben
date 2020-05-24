@@ -1,0 +1,7 @@
+from,to,weight,duration,relationship
+Jasmin,Sabine,4,3,1
+Jasmin,Lena,4,3,10
+Jasmin,Christin,4,3,10
+Jasmin,Manuel,3,3,6
+Sabine,Manuel,4,3,1
+Manuel,Sabine,4,3,1
